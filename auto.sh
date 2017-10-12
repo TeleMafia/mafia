@@ -1,6 +1,6 @@
 #!/bin/bash
 COUNTER=1
 while(true) do
-./energy.sh
+./mafia.sh
 let COUNTER=COUNTER+1 
 done
