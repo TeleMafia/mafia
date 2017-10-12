@@ -1,7 +1,7 @@
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+----TeleMafia*#@Masoud_Shar-----@LiberBotTeam
+FOR UPDATE-----لطفا پیام بالا رو پاک نکنید
 -----لطفا پیام بالا رو پاک نکنید
-local SUDO = 323046540 -- put Your ID here! <===
+local SUDO = 393088958 -- put Your ID here! <===
 function exi_files(cpath)
     local files = {}
     local pth = cpath
@@ -1067,7 +1067,7 @@ patterns = {
 }, 
 run = run, pre_process = pre_process
 }
--- #End By @RICH_ENERGY
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
+-- #End By @LiberBotTeam
+-----TeleMafiaTeam*#@Masoud_Shar
+-----@LiberBotTeam     FOR UPDATE
+-----لطفا پیام بالا رو پاک نکنید---aنکنید-*#@Masoud_Shar-----@LiberBotTeamلطفا پیام بالا رو پاک نکنید
