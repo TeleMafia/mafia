@@ -1,7 +1,7 @@
-﻿--Begin Utils.lua By #ENERGY_TEAM :)
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
+﻿
+﻿
+﻿
+﻿
  local clock = os.clock
 function sleep(time)  -- seconds
   local t0 = clock()
@@ -217,7 +217,7 @@ end
 --  Saves file to /tmp/. If file_name isn't provided,
 -- will get the text after the last "/" for filename
 -- do ski
-msg_caption = '\n🔖support: @'..string.reverse("YGRENEHCIR")
+msg_caption = '\n🔖support: @'..string.reverse("AIFAMHCIR")
 -- Waiting for ski:)
 -- and content-type for extension
 function download_to_file(url, file_name)
