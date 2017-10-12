@@ -21,24 +21,24 @@ install() {
 		cd ..
 		chmod +x bot
 		chmod +x tg
-		chmod +x autoenergy.sh
+		chmod +x automafia.sh
 }
 
 function print_logo() {
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
+	green "         TeleMafia"
+	green "         TeleMafia"
+	green "         TeleMafia  Masoud_Shar"
+	green "         TeleMafia  Masoud_Shar"
 	echo -e "\n\e[0m"
 }
 
 function logo_play() {
     declare -A txtlogo
     seconds="0.010"
-    txtlogo[1]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[2]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[3]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[4]="ENERGY  EHSAN    RICH         ENERGY"
+    txtlogo[1]="TeleMafia"
+    txtlogo[2]="TeleMafia"
+    txtlogo[3]="LiberBotTeam"
+    txtlogo[4]="Masoud_Shar"
     printf "\e[31m\t"
     for i in ${!txtlogo[@]}; do
         for x in `seq 0 ${#txtlogo[$i]}`; do
@@ -53,12 +53,12 @@ function logo_play() {
 
 function energy_team() {
 	echo -e "\e[0m"
-	green "     >>>>                       edir 4 source                                               "
-	green "     >>>>                       beyond.bombang and...                                       "
-	white "     >>>>                       edited by ehsan mafia_boy   @mafia_boy                      "
-	white "     >>>>                       @RICH_ENERGY                                                "
-	red   "     >>>>                       @ENERGY_TEAM                                                "
-	red   "     >>>>                       ENERGY_BOT                                                  "
+	green "     ➲➲➲➲                     edir mafia source                                               "
+	green "     ➲➲➲➲                     mafia_spambot                                       "
+	white "     ➲➲➲➲                     edited by masoud masoud_shar   @masoud_shar                    "
+	white "     ➲➲➲➲                     @telemafiateam                                               "
+	red   "     ➲➲➲➲                     @TeleMafiaTeam                                              "
+	red   "     ➲➲➲➲                     TeleMafiaTeam                                                "
 	echo -e "\e[0m"
 }
 
